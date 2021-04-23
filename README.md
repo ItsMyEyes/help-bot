@@ -50,3 +50,7 @@
 | checking cuaca | \.cuaca [nama province] | checking cuaca for province (beta) |
 | checking word in kbbi | \.kbbi [word]  | checking word in kbbi |
 | cute photo | \.cute | random photo cute |
+| random quotes muslim | \.muslim | random quotes |
+| random meme | \.meme | random meme |
+| nulis | \.nulis [word] | write in a book |
+| tulisan | \.tulisan [word]  | awesome word in text |
