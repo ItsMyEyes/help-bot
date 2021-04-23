@@ -43,3 +43,10 @@
 | playlists remove | \.playlists remove .playlist name] .song position] | remove a song at a specific position from a specified playlist. |
 | playlists show | \.playlists show .playlist name] | show all of the songs in a specified playlist. |
 | playlists all | \.playlists all | show all of the playlists on the server. |
+
+# Optional Commands
+| Command | Usage | Description |
+| ------- | ---------- | ----------- |
+| checking cuaca | \.cuaca [nama province] | checking cuaca for province (beta) |
+| checking word in kbbi | \.kbbi [word]  | checking word in kbbi |
+| cute photo | \.cute | random photo cute |
