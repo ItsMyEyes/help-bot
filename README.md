@@ -47,7 +47,7 @@
 # Optional Commands
 | Command | Usage | Description |
 | ------- | ---------- | ----------- |
-| checking cuaca | \.cuaca [nama province] | checking cuaca for province (beta) |
+| checking cuaca | \.cuaca [nama province] | checking cuaca for province / kota |
 | checking word in kbbi | \.kbbi [word]  | checking word in kbbi |
 | cute photo | \.cute | random photo cute |
 | random quotes muslim | \.muslim | random quotes |
